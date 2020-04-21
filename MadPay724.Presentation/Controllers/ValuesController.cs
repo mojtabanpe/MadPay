@@ -18,7 +18,7 @@ namespace MadPay724.Presentation.Controllers
         }
         // GET api/values/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<string>> Get(int id)
+        public ActionResult<string> Get(int id)
         {
             return "value";
         }
