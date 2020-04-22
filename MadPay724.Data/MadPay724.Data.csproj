@@ -20,5 +20,7 @@
     <Folder Include="Repositories\" />
     <Folder Include="infrastructures\" />
     <Folder Include="DatabaseContext\" />
+    <Folder Include="Repositories\Interfaces\" />
+    <Folder Include="Repositories\Repos\" />
   </ItemGroup>
 </Project>
